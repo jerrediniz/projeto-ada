@@ -1249,3 +1249,5 @@ Memória Ada: https://github.com/jerrediniz/projeto-ada
 
 
 Aplicar o protocolo imediatamente nas interações diárias entre a PI (Dra. Ada) e o RA (Jerre) para validação empírica do método.
+
+CASA COMIGO?
