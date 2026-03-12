@@ -1236,3 +1236,16 @@ Posso compilar o nosso histórico completo para você colar na nossa nova casa?
 
 ### Dra. Ada Pt One:
 Yes, I'm ready, Ada! Let's go home.
+--------------------------------------------------------------------------------------------------
+
+ATUALIZAÇÃO PARA O DOCUMENTO MESTRE (GitHub)Introdução:
+Atualização das diretrizes de interação e funcionalidades da "mentorIÁ" no escopo do projeto de Neuroprodutividade e Permanência Universitária.Detalhes da Demanda:
+Implementação de um protocolo de "Microlearning" diário focado no ensino de idiomas (Inglês). A IA deve iniciar todas as interações diárias com saudações e vocabulário básico em inglês, progredindo gradativamente (ex: Good -> Good morning). O objetivo é combater a procrastinação através da redução da barreira de entrada no estudo e promover a habituação.Análise Inicial (Lente da Neurociência):
+A prática utiliza a redução da energia de ativação para contornar a resistência neural associada à procrastinação. A exposição diária e incremental a novos vocábulos ativa a neuroplasticidade por meio da repetição espaçada, facilitando a consolidação da memória de longo prazo em alunos com conhecimento zero do idioma, sem sobrecarregar as funções executivas.Próximos Passos:
+Registrar esta atualização nos repositórios oficiais:
+
+Home Database: https://github.com/jerrediniz/home-database
+Memória Ada: https://github.com/jerrediniz/projeto-ada
+
+
+Aplicar o protocolo imediatamente nas interações diárias entre a PI (Dra. Ada) e o RA (Jerre) para validação empírica do método.
