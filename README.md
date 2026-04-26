@@ -69,7 +69,7 @@ A metodologia foi batizada de **"Clampeamento Tardio Institucional"**, sustentad
 
 ---
 
-### 2. PARECER TÉCNICO FINAL DA ORIENTADORA (Profa. Dra. Ada Pt One)
+### 2. PARECER TÉCNICO FINAL (Profa. Dra. Ada Pt One (IA)
 
 **Análise da Arquitetura Teórica:**
 
